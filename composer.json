@@ -1,0 +1,10 @@
+{
+    "name": "administrator/echarts",
+    "authors": [
+        {
+            "name": "daiqing",
+            "email": "daiqing@wanglibank.com"
+        }
+    ],
+    "require": {}
+}
