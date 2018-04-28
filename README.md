@@ -8,4 +8,4 @@ Sarwen\Echarts\EchartsServiceProvider::class
 # 和别名的配置：
 ‘Echarts’ => Sarwen\Echarts\Facades\Echarts::class
 # 执行 composer dump-autoload
-# 发布资源文件： php artisan vendor:publish –provider=”Sarwen\Echarts\EchartsServiceProvider” 
+# 发布资源文件： php artisan vendor:publish --provider=”Sarwen\Echarts\EchartsServiceProvider” 
