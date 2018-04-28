@@ -6,5 +6,10 @@
             "email": "daiqing@wanglibank.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Sarwen\\Echarts\\": "src/"
+        }
+    },
     "require": {"php": ">=5.6.4"}
 }
